@@ -5,8 +5,12 @@
 #include <vector>
 #include <map>
 
-## g++ -o monop basic-mon.cpp
-## ./monop  
+// Compiling and running
+
+// g++ -o monop basic-mon.cpp
+// ./monop  
+
+///////////////////////////////////////////////
 
 using namespace std;
 std::vector<int> vec;
